@@ -7,8 +7,16 @@
 body {
     background-color: #09090A;
     color: white;
-    
+
     height: 100vh;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 48px;
 }
 
 button {
@@ -17,4 +25,13 @@ button {
     border-radius: 8px;
     background-color: transparent;
     color: white;
+
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 125%;
 }
