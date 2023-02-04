@@ -36,6 +36,26 @@ button {
     line-height: 125%;
 }
 
+form {
+    display: flex;
+}
+
+.days {
+    display: flex;
+    margin-left: 32px;
+    gap: 48px;
+}
+
+.day {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.day div {
+    margin-bottom: 8px;
+}
+
 input {
     appearance: none;
     -webkit-appearance: none;
