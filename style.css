@@ -38,6 +38,28 @@ button {
 
 form {
     display: flex;
+
+    padding: 0 48px;
+}
+
+.habits {
+    margin-top: 60px;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 24px;
+}
+
+.habit {
+    width: 64px;
+    height: 64px;
+
+    font-size: 32px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .days {
@@ -54,6 +76,14 @@ form {
 
 .day div {
     margin-bottom: 8px;
+
+    font-family: 'Roboto Mono';
+    font-size: 20px;
+    line-height: 125%;
+
+    color: #A1A1AA;
+
+    text-align: center;
 }
 
 input {
