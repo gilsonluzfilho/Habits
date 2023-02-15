@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto online](https://gilsonluzfilho.github.io/Habits/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/AMa529nebxZ2soxB5hwS5d/Habits-(e)-(Community)?node-id=75%3A128&t=rWilKS16iy95g98N-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
